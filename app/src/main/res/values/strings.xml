@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ofic</string>
+    <string name="all_orders_text">Все заказы</string>
+    <string name="my_orders_text">Мои заказы</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Бар</string>
+    <string name="logo_of_app_2">Наул</string>
+    <string name="guests">Гости:</string>
+    <string name="time">Время:</string>
+</resources>
